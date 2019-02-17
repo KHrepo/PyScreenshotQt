@@ -15,5 +15,5 @@ OpenCV 3.4.2
 python PythonScreenshotQt.py
 ```
 or  
-下記のページから実行ファイルをダウンロードして使用してください。
+下記のページから実行ファイルをダウンロードして使用してください。  
 https://github.com/KHrepo/PyScreenshotQt/releases
